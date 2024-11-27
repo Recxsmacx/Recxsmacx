@@ -76,7 +76,7 @@
 </div>
 <!-- wave GIF end -->
 <!--
-**Swayam28/Swayam28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Recxsmacx/Recxsmacx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
