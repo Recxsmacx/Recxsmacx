@@ -21,19 +21,12 @@
 
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/ramshukla7150/">
-        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/ramshukla7150/" />
-    </a>
     <a href="https://x.com/RexSmacx">
         <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://x.com/RexSmacx" />
     </a>
     <a title="codewithrex@gmail.com" href="mailto:codewithrex@gmail.com">
         <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="codewithrex@gmail.com" />
     </a>
-    
-<a href="https://www.instagram.com/ramshukla7150/">
-        <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="https://www.instagram.com/ramshukla7150/" />
-    </a> 
     
 </p>
 <h2><i>Tech Stack</i></h2>
