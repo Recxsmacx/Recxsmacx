@@ -60,6 +60,11 @@
 </p>
 
   
+## 🏅 Holopin Badge Board
+
+Here are some of my digital badges from various hackathons, events, and communities 👇  
+
+[![An image of @recxsmacx's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/recxsmacx)](https://holopin.io/@recxsmacx)
 
 
 
