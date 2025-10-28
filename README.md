@@ -17,6 +17,9 @@
 </div>
 <!-- github trophy end -->
 
+## 🏅 HacktoberFest Badge Board
+[![An image of @recxsmacx's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/recxsmacx)](https://holopin.io/@recxsmacx)
+
 <h2><i>Let's Connect</i></h2>
 
 
@@ -60,13 +63,6 @@
 </p>
 
   
-## 🏅 Holopin Badge Board
-
-Here are some of my digital badges from various hackathons, events, and communities 👇  
-
-[![An image of @recxsmacx's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/recxsmacx)](https://holopin.io/@recxsmacx)
-
-
 
 <!-- wave GIF start -->
 <div align="center" width="100%">
